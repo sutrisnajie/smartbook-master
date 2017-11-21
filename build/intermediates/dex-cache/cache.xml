@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sutrisna Aji\.android\build-cache\f01f8e8f80d888c28e21becf45d01fe0e6601103\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Sutrisna Aji\AndroidStudioProjects\smartbook-master\app\build\intermediates\pre-dexed\debug\classes_4baedd9c46cbf3deaff048e7757cf267d511aa42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sutrisna Aji\.android\build-cache\cdf10e272df629d4cab1b7112e07a3e0c40b1185\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="C:\Users\Sutrisna Aji\AndroidStudioProjects\smartbook-master\app\build\intermediates\pre-dexed\debug\classes_014ae038c525c5063c41f1f49c4c738f5767c55f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sutrisna Aji\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\annotations\4.3.1\a786169ed0f768a589503844726f2380bb2139c\annotations-4.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0a786169ed0f768a589503844726f2380bb2139c">
+        <dex dex="C:\Users\Sutrisna Aji\AndroidStudioProjects\smartbook-master\app\build\intermediates\pre-dexed\debug\annotations-4.3.1_3106a1b8a2ac9a903ae4d8979e9463767456a0eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sutrisna Aji\.android\build-cache\0fed0ecfc980f428d4592882822c67f88a0015ba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="C:\Users\Sutrisna Aji\AndroidStudioProjects\smartbook-master\app\build\intermediates\pre-dexed\debug\classes_9ef464acad9f77ccbe747c6e45153644ea5bdbb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sutrisna Aji\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\Sutrisna Aji\AndroidStudioProjects\smartbook-master\app\build\intermediates\pre-dexed\debug\common-1.0.0_21b4b482cc4addea3e690380fcef113a7e18b171.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sutrisna Aji\.android\build-cache\1acc28f344ff4fd00474bd89fec2c6edacb62d29\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\Sutrisna Aji\AndroidStudioProjects\smartbook-master\app\build\intermediates\pre-dexed\debug\classes_9c5c06d715111a07f1cc0c71bff5c3c16fc39d22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sutrisna Aji\.android\build-cache\71b7bde644bca03cdc6b3528ec932c4d7065b163\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\Sutrisna Aji\AndroidStudioProjects\smartbook-master\app\build\intermediates\pre-dexed\debug\classes_8b2ddcb4851be62ef36d2733916dea98752df7e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sutrisna Aji\.android\build-cache\085d5d755677d6fcddfb2ef8d9e6f2619885928a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="392c97a8270ccf3cc7fe6e0a5d97a5e97a61e65c">
+        <dex dex="C:\Users\Sutrisna Aji\AndroidStudioProjects\smartbook-master\app\build\intermediates\pre-dexed\debug\classes_b54862d1b864ee9358f064c1c3a784f5d9ce97c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sutrisna Aji\.android\build-cache\7cff9d972a39218f26c9b70decf2d904caad58b8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\Sutrisna Aji\AndroidStudioProjects\smartbook-master\app\build\intermediates\pre-dexed\debug\classes_93e9da0f5464f8305b7f7473ab94d74ab3e37bc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sutrisna Aji\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\4.3.1\9afb77c8712b19e421caecefe8e85e98ab327ce7\glide-4.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9afb77c8712b19e421caecefe8e85e98ab327ce7">
+        <dex dex="C:\Users\Sutrisna Aji\AndroidStudioProjects\smartbook-master\app\build\intermediates\pre-dexed\debug\glide-4.3.1_2fdc4433561ad51fdb3d8e15e33fa115ac6781ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sutrisna Aji\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\disklrucache\4.3.1\9eaeaefa25c6ff18d7008f06208d41a261d8b29b\disklrucache-4.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9eaeaefa25c6ff18d7008f06208d41a261d8b29b">
+        <dex dex="C:\Users\Sutrisna Aji\AndroidStudioProjects\smartbook-master\app\build\intermediates\pre-dexed\debug\disklrucache-4.3.1_577ced564fbfed57cb2a46e01f67757b91185e74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sutrisna Aji\.android\build-cache\ba7f2f24f552a5e274bddc433ee5e606c3bdb807\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="C:\Users\Sutrisna Aji\AndroidStudioProjects\smartbook-master\app\build\intermediates\pre-dexed\debug\classes_4e0f351a10dd8611cbbef7f34bec889bac849ac9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sutrisna Aji\.android\build-cache\1cacc21803020bfc340ced427e9974540352886b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\Sutrisna Aji\AndroidStudioProjects\smartbook-master\app\build\intermediates\pre-dexed\debug\classes_b66118ff511a66baa5eb14536028484e577a0b2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Sutrisna Aji\AndroidStudioProjects\smartbook-master\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_d573760ead3216a5cc2d1e922f713bd8454b87f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sutrisna Aji\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\gifdecoder\4.3.1\dc06b7679496073ef4505005b4c5995f522503cd\gifdecoder-4.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dc06b7679496073ef4505005b4c5995f522503cd">
+        <dex dex="C:\Users\Sutrisna Aji\AndroidStudioProjects\smartbook-master\app\build\intermediates\pre-dexed\debug\gifdecoder-4.3.1_27381fdc8dd2b4ca754b0d4f788a9c87fb92e7ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sutrisna Aji\.android\build-cache\495b7e4bbfbe9364afe42a5123f99a428b6f553e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\Sutrisna Aji\AndroidStudioProjects\smartbook-master\app\build\intermediates\pre-dexed\debug\classes_9911740e248f14070170d3b686887bd32c792d60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sutrisna Aji\.android\build-cache\ff22ee43f6dc97711c4ebff2399319b25f18ce61\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\Sutrisna Aji\AndroidStudioProjects\smartbook-master\app\build\intermediates\pre-dexed\debug\classes_ebad1e39a86a6b8a0aaf0ad60b5958118457a223.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sutrisna Aji\.android\build-cache\0046f3ef0e4faa6413b3c64f9f5285d86ede547f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\Sutrisna Aji\AndroidStudioProjects\smartbook-master\app\build\intermediates\pre-dexed\debug\classes_6ee9bfdcf365bed484725c8c27830befe5d5cefb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sutrisna Aji\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\Sutrisna Aji\AndroidStudioProjects\smartbook-master\app\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_df5c1991a9482b2c0adfe020081ee769b4f3d827.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sutrisna Aji\.android\build-cache\89cb708ceeb6bd073e38507020ab6dfa8618cec1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\Sutrisna Aji\AndroidStudioProjects\smartbook-master\app\build\intermediates\pre-dexed\debug\classes_b92ee5e909dd2368c3bff4c0da3024ca887d60a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sutrisna Aji\.android\build-cache\fee3c00c781d4deac7015f59c2f5807bde108b0d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d9f58e509a3ff5b601c11ab5ec588c96f9eb82b2">
+        <dex dex="C:\Users\Sutrisna Aji\AndroidStudioProjects\smartbook-master\app\build\intermediates\pre-dexed\debug\classes_2ea5cbc011a5814446bb6420898225a60d25db15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sutrisna Aji\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\Sutrisna Aji\AndroidStudioProjects\smartbook-master\app\build\intermediates\pre-dexed\debug\common-1.0.0_152cbf1aa16de3cd08fac6716d6d8f32c214c552.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sutrisna Aji\.android\build-cache\5b5948816609fb3688bf360b2f63fe920e4c8662\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\Sutrisna Aji\AndroidStudioProjects\smartbook-master\app\build\intermediates\pre-dexed\debug\classes_d7ba4a4f27148babe899c4976423e0ce17807290.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sutrisna Aji\.android\build-cache\963420323c7c43e93b521fa3f8e767b0213c3e3c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Sutrisna Aji\AndroidStudioProjects\smartbook-master\app\build\intermediates\pre-dexed\debug\classes_5526681e76bac01d2daacf49d06b0ea382f0a6f3.jar" />
+    </item>
+
+</items>
